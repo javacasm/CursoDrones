@@ -6,7 +6,7 @@ Además en el proceso de montaje de un drone nos encontraremos con  la necesidad
 
 Todos estos conocimientos son de por sí interesante, y unidos a lo atractivo del propio drone lo hacen un proyecto muy adecuado para llevar en casa
 
-Durante las sesiones del curso aprenderemos la teoría necesaria para entener el funcionamiento de un drone.
+Durante las sesiones del curso aprenderemos la teoría necesaria para entender el funcionamiento de un drone.
 La pondremos en práctica haciendo algunos prototipos que utilizan la misma electrónica que los drones. Mediremos con sensores y preparemos programas de comunicaciones y de calibración.
 
 También aprenderemos los aspectos legales del vuelo con drones
@@ -18,7 +18,7 @@ Montaremos un kit de drones, para hacerlo volar después de calibrarlo.
 30 horas
 
 10 horas teoría
-4 horas legislación, seguridad y vuelo (Impartidas si es podible por un pilo oficial)
+4 horas legislación, seguridad y vuelo (Impartidas si es posible por un piloto oficial)
 5 horas montaje de ejemplos
 8 horas montaje y calibración
 3 horas de pruebas
