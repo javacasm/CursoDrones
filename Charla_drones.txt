@@ -1,0 +1,131 @@
+Drones viene de Zángano Device remorte operared
+
+Drones viene de "Zángano"
+Device remorte e n opersted 
+
+Control directo
+Srmiautonimo
+Autónomo
+
+## (Modelos y tipos)
+
+Analogía con el cuerpo humano
+
+Cerebro - micro potente/bajo consumo
+Oído interno nos da el sentido delnequilibrio- acelerómetro y giróscopo
+
+Músculos - motores
+
+Grasa/carbohidratos - bayerias
+
+Visión - cámara (no es necesario) 
+( Vídeo carrera de drones carreras, freestyle ) FPV inmersión
+
+
+Comunicación - radio/wifi/bluetooth algunos se comunica con los móviles
+
+# Funcionamiento
+
+Le damos órdenes pero además tiene en cuenta los sensores. Actúa a partir de las órdenes y el estado
+Las órdenes se convierte en control de los motores
+
+Los motores no todos giran en el mismo sentido
+Si todos lo hicieran se generaría un par de giro
+Los helicópteros tienen un motor estará on2 rotores
+
+¿Como lo movemos hacia adelante ?
+Las de atrás giran más rápido, cabecea y va hacia delante (dibujo)
+
+## movimiento
+
+
+Pitch
+
+Roll (par de giro)
+
+Yaw
+
+## componentes
+
+Control
+Transmisor/receptor
+
+2 Enlaces al menos: control y telemetría (la cámara sería un tercero)
+
+Se suelen superponer telemetría y la cámara,
+
+Necesitan un programa
+
+## aplicaciones
+
+* Topografía
+* Reparto
+* Drones RAC
+* salvamento
+* Lanzallamas mantenimiento de tendido eléctrico
+* Hobby
+* Atención médica
+* Agricultura (plagas y madurez de los frutos)
+
+
+# haz tu propio drone
+
+* A partir de un kit lo construimos y lo vamos mejorando
+* Construirlo a partir de una idea (2 años)
+
+# temas legales
+
+* No se pueden pilotar en zonas públicas si no se tiene licencia
+* No usar en zonas restringidas
+* No en zonas urbanas
+* Multas de 2000€
+* Necesaria licencia RPAS
+
+
+# programa
+
+Se suelen programar en C
+
+Existen programas ya hechos y que "solo" tenemos que configurar
+
+
+# idea
+
+Sensores de ultrasonido para mantener altura
+
+Existen "bandadas" de drones
+
+Drone gigante https://youtu.be/OkGyz0m8TuA
+
+Montaje en 5 horas, configurar bastantes más
+
+Montar carrera de drones en pabellón vacío
+Altura máxima:  los civiles y los militares
+
+Precio: 200€ sin autopiloto
+
+
+# autopiloto
+* Vuelta a casa
+* Autoaterrizaje
+
+# todos los drones tienen 2 luces, azul y roja
+Azul adelante
+
+Sincronización
+Parpadeo, subimos y bajamos joysticks izqdo y ya se ha sincronizado
+
+Para aprender, primeros ejercicios:
+1. Levantar y aterrizar, hay que equilibrarlo
+(Un defecto en una pala produce desequilibrio)
+2. Pequeños movimientos
+
+(Para aprender usar dones pequeños y tolerantes a choques)
+
+
+
+Kit El Eachine Wizard X220 https://t.co/1uxUFPYQT8
+
+## simulador
+
+http://www.dronethusiast.com/simulador-de-drones/
