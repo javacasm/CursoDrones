@@ -15,3 +15,13 @@
 ## Técnicos
 
 [Uso del MPU6040](http://www.dobitaobyte.com.br/mpu6050-com-esp8266-gy-521/)
+
+## Simuladores
+
+[Simulador de drones](https://fpv-freerider.itch.io/?cn=cmVwbHk%3D)
+
+[Comparativa de simuladores de drones](http://www.dronethusiast.com/simulador-de-drones/)
+
+## Varios
+
+[Manejo de flotas de drones](https://www.hackster.io/ryan-moore/manage-a-fleet-of-drones-cf9956)
