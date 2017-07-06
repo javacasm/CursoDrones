@@ -1,5 +1,10 @@
 # Recursos
 
+## Teoría
+
+[Control de drone 1DOF (PID)](http://people.ece.cornell.edu/land/courses/ece4760/labs/f2017/lab4_helicopter.html)
+
+[Vídeo de control de rone 1DOF (PID)](https://www.youtube.com/watch?v=kynsVH9XzhI)
 
 ## Cursos
 
