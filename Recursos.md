@@ -6,6 +6,14 @@
 
 [Vídeo de control de rone 1DOF (PID)](https://www.youtube.com/watch?v=kynsVH9XzhI)
 
+[Protocolo de comunicaciones con Drones (usan nrf24)](https://github.com/goebish/nrf24_multipro)
+
+[Detalles del protocolo de comunicaciones](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module/blob/master/Protocols_Details.md)
+
+[Control de un drone desde un pc](https://www.makehardware.com/2016/04/24/teach-your-pc-to-fly-a-mini-drone/)
+
+[Comunicación Drone-PC](https://www.makehardware.com/2016/07/04/how-to-control-your-drone-from-a-computer/)
+
 ## Cursos
 
 [Iniciación al mundo de las aeronaves tripuladas remotamente](https://miriadax.net/web/iniciacion-al-mundo-de-las-aeronaves-tripuladas-en-remoto-drones-)
