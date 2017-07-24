@@ -8,6 +8,7 @@
 
 [Vídeo: tutorial pid para drones](https://youtu.be/AN3yxIBAxTA)
 
+### Protocolo de comunicaciones
 
 [Protocolo de comunicaciones con Drones (usan nrf24)](https://github.com/goebish/nrf24_multipro)
 
@@ -16,6 +17,14 @@
 [Control de un drone desde un pc](https://www.makehardware.com/2016/04/24/teach-your-pc-to-fly-a-mini-drone/)
 
 [Comunicación Drone-PC](https://www.makehardware.com/2016/07/04/how-to-control-your-drone-from-a-computer/)
+
+[Ingeniería inversa del protocolo de un dron Syma 107](http://hackaday.com/2012/08/27/reverse-engineering-a-syma-107-toy-helicopter-ir-protocol/)
+
+##  Proyectos
+
+[Controlar un drone con un mando de la play](http://hackaday.com/2017/07/24/controlling-a-micro-helicopter-with-a-ps2-controller/)
+
+[Controlando un drone con arduino](https://www.xarg.org/2017/07/operate-a-syma-s107g-remote-control-helicopter-with-an-arduino/)
 
 ## Cursos
 
