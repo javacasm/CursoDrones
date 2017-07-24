@@ -6,6 +6,9 @@
 
 [Vídeo de control de rone 1DOF (PID)](https://www.youtube.com/watch?v=kynsVH9XzhI)
 
+[Vídeo: tutorial pid para drones](https://youtu.be/AN3yxIBAxTA)
+
+
 [Protocolo de comunicaciones con Drones (usan nrf24)](https://github.com/goebish/nrf24_multipro)
 
 [Detalles del protocolo de comunicaciones](https://github.com/pascallanger/DIY-Multiprotocol-TX-Module/blob/master/Protocols_Details.md)
@@ -38,3 +41,7 @@
 ## Varios
 
 [Manejo de flotas de drones](https://www.hackster.io/ryan-moore/manage-a-fleet-of-drones-cf9956)
+
+##Diseño tu propio drone
+
+Arduino Drone: http://www.youtube.com/playlist?list=PLsR1AO4QH1Azezx2KBeHrlakiOjN65BGX
