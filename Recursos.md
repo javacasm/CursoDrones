@@ -1,5 +1,7 @@
 # Recursos
 
+[Explicación del Código para hacer un drone(6:00)](https://www.youtube.com/watch?v=if9LZTcy_uk)
+
 ## Teoría
 
 [Control de drone 1DOF (PID)](http://people.ece.cornell.edu/land/courses/ece4760/labs/f2017/lab4_helicopter.html)
@@ -54,3 +56,4 @@
 ##Diseño tu propio drone
 
 Arduino Drone: http://www.youtube.com/playlist?list=PLsR1AO4QH1Azezx2KBeHrlakiOjN65BGX
+(Creando el emisor y el receptor)
