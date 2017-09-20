@@ -43,6 +43,8 @@
 
 [Uso del MPU6040](http://www.dobitaobyte.com.br/mpu6050-com-esp8266-gy-521/)
 
+[Haz tu propio ESC](https://www.instructables.com/id/Make-Your-Own-ESC/)
+
 ## Simuladores
 
 [Simulador de drones](https://fpv-freerider.itch.io/?cn=cmVwbHk%3D)
