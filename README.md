@@ -67,9 +67,9 @@ El objetivo del curso es aprender a construir y manejar un drone de tipo QuadCop
 Se propone la compra de 5 kits (unos 1500€)
 
 Componentes para hacer los ejemplos de control y comunicaciones 30€ por kit
+
 [Kit completo de drone: 205$ + envío (10$) + aduanas (50€)](https://www.ebay.com/p/?iid=272219070545&lpid=82&&&ul_noapp=true&chn=ps)
-
-
+[Kit sin emisor, ni receptor ni baterias 160€](http://tienda.bricogeek.com/gadgets-geek/835-kit-quadcopter-emax-nighthawk-250.html)
 
 ## Referencias
 
@@ -86,3 +86,5 @@ Componentes para hacer los ejemplos de control y comunicaciones 30€ por kit
 [5 kits baratos de drones](https://makezine.com/2017/05/10/5-quadcopter-kits/)
 
 [Cámara](https://www.banggood.com/es/600TVL-8_0MP-14-2_8mm-CMOS-FPV-170-Degree-Wide-Anlge-Lens-Camera-PALNTSC-p-984345.html?currency=EUR&createTmp=1&value_ids[]=4070&utm_source=google&utm_medium=cpc&utm_content=cathy&utm_campaign=csh-smarthome-rm-d&gclid=CIja-KfX7tMCFRAW0wodB40F_Q)
+
+## [Recursos](./Recursos.md)
