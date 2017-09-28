@@ -28,6 +28,8 @@
 
 [Controlando un drone con arduino](https://www.xarg.org/2017/07/operate-a-syma-s107g-remote-control-helicopter-with-an-arduino/)
 
+[Build a small drone](https://www.rcgroups.com/forums/showthread.php?1335765-Building-a-palm-size-quad-copter-Introducing-a-new-simple-flight-controlleren)
+
 ## Cursos
 
 [Iniciación al mundo de las aeronaves tripuladas remotamente](https://miriadax.net/web/iniciacion-al-mundo-de-las-aeronaves-tripuladas-en-remoto-drones-)
