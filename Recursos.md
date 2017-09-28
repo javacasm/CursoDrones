@@ -1,5 +1,10 @@
 # Recursos
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tSRg5cFIxI0" frameborder="0" allowfullscreen></iframe>
+
+[Visión desde un drone](https://www.youtube.com/embed/tSRg5cFIxI0)
+
 [Explicación del Código para hacer un drone(6:00)](https://www.youtube.com/watch?v=if9LZTcy_uk)
 
 ## Teoría
