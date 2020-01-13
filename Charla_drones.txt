@@ -1,11 +1,14 @@
-Drones viene de Zángano Device remorte operared
+# Charla ¿Cuál? sobre drones
 
-Drones viene de "Zángano"
-Device remorte e n opersted 
+Drones viene de "Zángano" 
+
+Device remote operated
+
 
 Control directo
-Srmiautonimo
+Semiautónomo
 Autónomo
+
 
 ## (Modelos y tipos)
 
@@ -16,7 +19,7 @@ Oído interno nos da el sentido delnequilibrio- acelerómetro y giróscopo
 
 Músculos - motores
 
-Grasa/carbohidratos - bayerias
+Grasa/carbohidratos - baterias
 
 Visión - cámara (no es necesario) 
 ( Vídeo carrera de drones carreras, freestyle ) FPV inmersión
@@ -36,14 +39,22 @@ Los helicópteros tienen un motor estará on2 rotores
 ¿Como lo movemos hacia adelante ?
 Las de atrás giran más rápido, cabecea y va hacia delante (dibujo)
 
-## movimiento
+## Movimiento
 
+
+![](https://emissarydrones.com/wp-content/uploads/2016/09/Pitch-Roll-and-Yaw.jpg)
 
 Pitch
 
 Roll (par de giro)
 
 Yaw
+
+![](https://k60.kn3.net/taringa/D/2/2/0/A/F/dvd1493/F79.jpg)
+
+## Controles
+
+![controles](https://ak8.picdn.net/shutterstock/videos/9350108/thumb/1.jpg)	
 
 ## componentes
 
