@@ -1,5 +1,11 @@
 # Recursos
 
+## Dron DJI Tello
+
+https://www.ryzerobotics.com/es/tello-edu/downloads
+
+## Varios
+
 [OpenCV python](https://github.com/dbaldwin/DroneBlocks-Tello-Camera-With-Python-OpenCV)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tSRg5cFIxI0" frameborder="0" allowfullscreen></iframe>
